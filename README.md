@@ -26,8 +26,8 @@ The challenge was to build out a QR code component using only HTML and CSS.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/salentipy/qr-code-component-main/)
+- Live Site URL: [Add live site URL here](https://salentipy.github.io/qr-code-component-main/)
 
 ## My process
 
